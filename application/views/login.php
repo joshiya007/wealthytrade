@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <link rel="icon" type="image/png" sizes="96x96" href="assets/img/logo.png">
-    <title>testaid.in</title>
+    <title>wealthytrade.in</title>
 
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
@@ -36,7 +36,7 @@
                     <div class="col-md-4 col-md-offset-4">
                         <div class="card">
                             <div class="header">
-                                <h4 class="title text-center login-header-h4"><a href="login">Wealthy<span>Trade</span></a></h4>
+                                <h4 class="title text-center login-header-h4"><a href="login">wealthy<span>trade</span></a></h4>
                                 
                                 <hr class="colorgraph">
                             </div>

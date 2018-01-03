@@ -72,7 +72,7 @@
             <footer class="footer-app-dashboard">
                 <div class="container-fluid">
                     <div class="copyright text-center">
-                        &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a href="login">testaid.in</a>
+                        &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a href="login">wealthytrade.in</a>
                     </div>
                 </div>
             </footer>
@@ -87,7 +87,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="dashboard" class="navbar-brand login-header-h4"><img class="img-responsive" src="assets/img/logo.png" >testaid</a>
+                <a href="dashboard" class="navbar-brand login-header-h4"><img class="img-responsive" src="assets/img/logo.png" >wealthytrade</a>
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -330,7 +330,7 @@
         <footer class="footer-app-dashboard-normal">
             <div class="container-fluid">
                 <div class="copyright text-center">
-                    &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a href="login">testaid.in</a>
+                    &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a href="login">wealthytrade.in</a>
                 </div>
             </div>
         </footer>

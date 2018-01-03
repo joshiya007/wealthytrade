@@ -180,7 +180,7 @@ INSERT INTO `user` (`name`, `emailid`, `password`) VALUES
 ('Sukhvinder', 'sukhvinder.hanspal@gmail.com', 'coolio88'),
 ('Jatin', 'jatin4u007@gmail.com', 'letstestit'),
 ('Ashok kumar M V', 'ashokkumar.mv84@gmail.com', 'Testing2014'),
-('terry kernan', 'terry@creategravity.com', 'testaid'),
+('terry kernan', 'terry@creategravity.com', 'wealthytrade'),
 ('Nivea', 'niveasharm@hotmail.com', 'Nivs@1234'),
 ('Nivea', 'niveasharma@hotmail.com', 'Nivs@1234'),
 ('Anil ', 'anilborsecse@gmail.com', 'Hello@123');

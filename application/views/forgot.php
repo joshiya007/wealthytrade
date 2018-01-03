@@ -34,7 +34,7 @@
                     <div class="col-md-4 col-md-offset-4">
                         <div class="card">
                             <div class="header">
-                                <h4 class="title text-center login-header-h4"><a href="login">Wealthy<span>Trade</span></a></h4>
+                                <h4 class="title text-center login-header-h4"><a href="login">wealthy<span>trade</span></a></h4>
                                 <hr class="colorgraph">
                             </div>
                             <div class="content forgot-form">

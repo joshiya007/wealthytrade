@@ -44,7 +44,7 @@
                         <span class="icon-bar bar2"></span>
                         <span class="icon-bar bar3"></span>
                     </button>
-                    <a href="dashboard" class="navbar-brand login-header-h4"><img class="img-responsive" src="assets/img/logo.png" >testaid</a>
+                    <a href="dashboard" class="navbar-brand login-header-h4"><img class="img-responsive" src="assets/img/logo.png" >wealthytrade</a>
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -85,8 +85,8 @@
                         <div class="card">
                             <div class="col-md-5 pull-left voffset2">
                                 <div class="header">
-                                    <h4 class="title">Welcome to testaid</h4>
-                                    <p class="category">Continue testing your apps with testaid using <br>some of the resources below</p>
+                                    <h4 class="title">Welcome to wealthytrade</h4>
+                                    <p class="category">Continue testing your apps with wealthytrade using <br>some of the resources below</p>
                                 </div>
                                 
                                 <div class="row content">
@@ -187,7 +187,7 @@
         <footer class="footer-app-dashboard-normal">
             <div class="container-fluid">
                 <div class="copyright text-center">
-                    &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a href="login">testaid.in</a>
+                    &copy; <script>document.write(new Date().getFullYear())</script>, made with <i class="fa fa-heart heart"></i> by <a href="login">wealthytrade.in</a>
                 </div>
             </div>
         </footer>
