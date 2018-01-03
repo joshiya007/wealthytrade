@@ -4,7 +4,8 @@ class Login extends CI_Controller{
 
 
   public function index(){
-    if(!empty($this->session->userdata('sessiontoken'))){
+    $sessionToken = $this->session->userdata('sessiontoken');
+    if(!empty($sessiontoken)){
       redirect('dashboard');   // load login view  
     }else{
       $this->load->view('login');
