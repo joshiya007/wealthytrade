@@ -13,17 +13,36 @@ class Signupmodel extends CI_Model{
 			   'emailid' => $this->input->post('email') ,
 			   'password' => $pwd_hash
 			);
-			$this->db->insert('user', $data); 
-			if($this->db->affected_rows() > 0)
-			{
-				return true;
+			if($this->userExist($this->input->post('name'))){
+				$this->db->insert('user', $data); 
+				if($this->db->affected_rows() > 0)
+				{
+					return true;
+				}else{
+					return false;
+				}	
 			}else{
 				return false;
 			}
+			
+			
 		}catch(Exception $e){
 			var_dump($e->getMessage());
 			return false;
 		}
+	}
+
+
+	function userExist($key)
+	{
+	    $this->db->where('emailid',$key);
+	    $query = $this->db->get('user');
+	    if ($query->num_rows() > 0){
+	        return true;
+	    }
+	    else{
+	        return false;
+	    }
 	}
 
 }
